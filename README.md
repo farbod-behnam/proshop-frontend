@@ -16,4 +16,4 @@ You will also see any lint errors in the console.
 
 
 ### `backend`
-the backend of this project can be accessed via []()
+the backend of this project can be accessed via [https://github.com/farbod-behnam/proshop-backend](https://github.com/farbod-behnam/proshop-backend)
